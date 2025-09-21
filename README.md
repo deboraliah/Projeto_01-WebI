@@ -2,12 +2,9 @@
 
 ### Projeto Web I – IFCE  
 
-## 👩‍💻 Autora
-Débora Liah Uchoa Pereira**  
-## 👨‍🏫 Professor
-Thomaz Maia**  
-## 📚 Curso
-Técnico em Informática – IFCE  
+## 👩‍💻 Autora : Débora Liah Uchoa Pereira**  
+## 👨‍🏫 Professor : Thomaz Maia**  
+## 📚 Curso : Técnico em Informática – IFCE  
 ## 🛠️ Tecnologia Utilizada
 - **HTML5**
   
