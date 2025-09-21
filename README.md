@@ -1,6 +1,6 @@
 # Projeto_01-WebI
 
--**Apresentação Pessoal - Projeto 01**
+- **Apresentação Pessoal - Projeto 01**
 
 ### _Projeto Web I – IFCE_
 
