@@ -3,17 +3,14 @@
 ### Projeto Web I – IFCE  
 
 ## 👩‍💻 Autora
-**Débora Liah Uchoa Pereira**  
-
+Débora Liah Uchoa Pereira**  
 ## 👨‍🏫 Professor
-**Thomaz Maia**  
-
+Thomaz Maia**  
 ## 📚 Curso
 Técnico em Informática – IFCE  
-
 ## 🛠️ Tecnologia Utilizada
 - **HTML5**
-
+  
 ## 🎯 Objetivo do Projeto
 O objetivo deste projeto é **desenvolver uma aplicação web simples utilizando apenas HTML5**, com foco na **estruturação de conteúdo** e na **aplicação prática dos conceitos estudados em sala de aula**.  
 
